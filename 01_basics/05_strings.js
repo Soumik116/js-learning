@@ -36,6 +36,12 @@ console.log(url.includes('hitesh'))
 
 console.log(gameName.split('-'));
 
+console.log(gameName.charCodeAt("d"));
+
+
+
+
+
 
 
 
